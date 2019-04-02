@@ -7,4 +7,5 @@
 target/
 .idea/
 .git/
+.out/
 .*.iml
