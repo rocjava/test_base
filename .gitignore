@@ -1,0 +1,10 @@
+/*
+!.gitignore
+!README.md
+!src
+!lib
+!web
+target/
+.idea/
+.git/
+.*.iml
